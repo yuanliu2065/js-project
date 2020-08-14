@@ -1,1 +1,3 @@
-console.log(3)
+import './style/main.scss';
+
+console.log('Hola');
